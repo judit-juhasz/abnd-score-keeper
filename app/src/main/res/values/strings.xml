@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ScoreKeeper</string>
+
+    <string name="play_name">American Football</string>
+    <string name="team_a_name">Team A</string>
+    <string name="team_b_name">Team B</string>
+    <string name="touchdown">Touchdown</string>
+    <string name="point_after_touchdown">PAT</string>
+    <string name="two_point_conversion">Two-point conversion</string>
+    <string name="field_goal">Field goal</string>
+    <string name="safety">Safety</string>
+    <string name="new_game">Reset</string>
+</resources>

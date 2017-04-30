@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="team_name_text_size">22sp</dimen>
+    <dimen name="score_text_size">40sp</dimen>
+
+    <dimen name="layout_width_zero">0dp</dimen>
+    <dimen name="separated_line_width">1dp</dimen>
+    <dimen name="reset_button_padding">40dp</dimen>
+
+    <dimen name="margin_small">10dp</dimen>
+    <dimen name="margin_normal">30dp</dimen>
+
+
+
+</resources>
